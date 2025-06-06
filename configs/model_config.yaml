@@ -1,0 +1,8 @@
+base_model: llama3
+parameters:
+  learning_rate: 0.001
+  batch_size: 32
+# from: llama3
+# parameter:
+#   learning_rate: 0.001
+#   batch_size: 32
